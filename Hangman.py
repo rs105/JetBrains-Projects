@@ -8,7 +8,7 @@ Created on Thu Jun 11 00:20:15 2020
 import random
 
 
-chosen = list(random.choice(['java','javascript','python','kotlin','Matlab']))
+chosen = list(random.choice(['java','javascript','python','kotlin','matlab']))
 hidden = list('-' * len(chosen))
 already_typed = []
 print('H A N G M A N')
