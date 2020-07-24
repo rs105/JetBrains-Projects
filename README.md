@@ -1,5 +1,5 @@
 # JetBrains-Projects
-A few of the projects that I've worked on with Python
+A few projects that I've worked on with Python 
 
 1. Hangman : The basic game of hangman which provides the user with a few choices to guess the hidden word. If the user guesses it correctly within the given number of tries, he/she wins the game. Else they lose.
 
