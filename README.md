@@ -1,5 +1,4 @@
 # JetBrains-Projects
-This GitHub repository is a collection of Python projects that I have worked on, showcasing my skills and passion for programming. It features three fun and educational projects: Hangman, Credit Calculator, and Tic-Tac-Toe.
 
 1. Hangman : The basic game of hangman which provides the user with a few choices to guess the hidden word. If the user guesses it correctly within the given number of tries, he/she wins the game. Else they lose.
 
